@@ -27,10 +27,10 @@
 <div style="display: inline_block"><br>
 
   <a href="https://github.com/rossiedu/convoychat">
-  <img align="right-center" height ="180em" src="https://media.giphy.com/media/WRQBXSCnEFJIuxktnw/giphy.gif" />
+  <img align="center" height ="180em" src="https://media.giphy.com/media/WRQBXSCnEFJIuxktnw/giphy.gif" />
 </a>
   <a href="https://github.com/rossiedu/convoychat">
-  <img align="right-center" height ="180em" src="https://media.giphy.com/media/ohdY5OaQmUmVW/giphy.gif" />
+  <img align="center" height ="180em" src="https://media.giphy.com/media/ohdY5OaQmUmVW/giphy.gif" />
 </a>
   
   
