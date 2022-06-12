@@ -12,8 +12,8 @@
 
 <div>
   <a href="https://github.com/rossiedu/rossiedu#readme">
-  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api?username=rossiedu&?count_private=true&include_all_commits=true&show_icons=true&theme=codeSTACKr"/>
-  <img align "right" height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rossiedu&layout=compact&langs_count=7&theme=codeSTACKr"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rossiedu&?count_private=true&include_all_commits=true&show_icons=true&theme=codeSTACKr"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rossiedu&layout=compact&langs_count=7&theme=codeSTACKr"/>
 </div> 
 
 <div style="display: inline_block"><br>
