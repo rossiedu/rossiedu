@@ -11,10 +11,10 @@
 ## 🎨 How I do:
 
 <a href="https://github.com/rossiedu/github-readme-stats">
-  <img align="center" height ="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rossiedu&&layout=compact&theme=codeSTACKr" />
+  <img align="center" height ="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rossiedu&&layout=compact&theme=codeSTACKr" />
 </a>
 <a href="https://github.com/rossiedu/convoychat">
-  <img align="center" height ="180em" src="https://github-readme-stats.vercel.app/api?username=rossiedu&theme=codeSTACKr" />
+  <img align="center" height ="170em" src="https://github-readme-stats.vercel.app/api?username=rossiedu&theme=codeSTACKr" />
 </a>
 <div style="display: inline_block"><br>
 <a href="https://github.com/rossiedu/github-readme-stats">
@@ -31,9 +31,6 @@
 </a>
   <a href="https://github.com/rossiedu/convoychat">
   <img align="right-center" height ="180em" src="https://media.giphy.com/media/ohdY5OaQmUmVW/giphy.gif" />
-</a>
-<a href="https://github.com/rossiedu/convoychat">
-  <img align="right-center" height ="180em" src="https://media.giphy.com/media/67nltI43WQSEQQDZ4w/giphy.gif" />
 </a>
   
   
