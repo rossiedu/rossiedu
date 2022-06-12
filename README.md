@@ -11,10 +11,10 @@
 ## 🎨 How I do:
 
 <a href="https://github.com/rossiedu/github-readme-stats">
-  <img align="center" height ="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rossiedu&&layout=compact&theme=codeSTACKr" />
+  <img align="center" height ="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rossiedu&&layout=compact&theme=codeSTACKr" />
 </a>
 <a href="https://github.com/rossiedu/convoychat">
-  <img align="center" height ="100em" src="https://github-readme-stats.vercel.app/api?username=rossiedu&theme=codeSTACKr" />
+  <img align="center" height ="150em" src="https://github-readme-stats.vercel.app/api?username=rossiedu&theme=codeSTACKr" />
 </a>
 <div style="display: inline_block"><br>
 <a href="https://github.com/rossiedu/github-readme-stats">
