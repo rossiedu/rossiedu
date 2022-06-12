@@ -29,4 +29,4 @@
 <a href="https://www.linkedin.com/in/eduardodrossi/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://medium.com/"><img alt="Medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>
 
-![Snake animation]()
+ ![Snake animation](https://github.com/rossiedu/rossiedu/blob/output/github-contribution-grid-snake.svg)
