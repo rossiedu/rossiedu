@@ -3,9 +3,9 @@
 #### TALK DATA TO ME 🥵! Data addict, python lover and i like business stuff.
 
 ##  🖌 About me
-- 💼 Right now im Manager from the Business Intelligence team inside the first savetech in Brazil!
-- ✍🏽 I'm focused in develop my skills in the data analytics tools in AWS
-- 🍻 I’m open to drink beer and talk about anything related to data and business
+- 💼 Right now i am Business Intelligence Manager inside the first savetech in Brazil!
+- ✍🏽 I'm focused in develop my skills in AWS data analytics tools
+- 🍻 I’m open to drink beer and talk about anything related to data or business
 - 💬 Ask me about how to solve business problems with data.
 
 ## 🎨 How I do:
