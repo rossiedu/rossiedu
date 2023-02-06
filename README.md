@@ -3,8 +3,8 @@
 #### TALK DATA TO ME 🥵! Data addict, python lover and i like business stuff.
 
 ##  🖌 About me
-- 💼 Right now i am Business Intelligence Manager inside the first savetech in Brazil!
-- ✍🏽 I'm focused in develop my skills in AWS data analytics tools
+- 💼 Right now i am Data Coordinator inside the first savetech in Brazil!
+- ✍🏽 I'm developing my AWS skills
 - 🍻 I’m open to drink beer and talk about anything related to data or business
 - 💬 Ask me about how to solve business problems with data.
 
@@ -19,9 +19,9 @@
 <div style="display: inline_block"><br>
 <a href="https://github.com/rossiedu/github-readme-stats">
   <img align="center" alt="Python" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  <img align="center" alt="Mysql" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-  <img align="center" alt="Anaconda" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg">
-  <img align="center" alt="Anaconda" height="50" width="50" src="https://img.icons8.com/fluency/48/undefined/microsoft-excel-2019.png">
+  <img align="center" alt="Mysql" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg">
+  <img align="center" alt="Anaconda" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg">
+  <img align="center" alt="Anaconda" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
  
 </a>
  
