@@ -1,11 +1,11 @@
 ## Olá my friend 🌎, I'm Eduardo Rossi!
 
-#### TALK DATA TO ME 🥵! Data addict, python lover and i like business stuff.
+#### TALK DATA TO ME 🥵! Data addict, a Python lover and I like business stuff.
 
 ##  🖌 About me
-- 💼 Right now i am Data Coordinator inside the first savetech in Brazil!
+- 💼 Right now I am Data Coordinator inside the first savetech in Brazil!
 - ✍🏽 I'm developing my AWS skills
-- 🍻 I’m open to drink beer and talk about anything related to data or business
+- 🍻 I’m open to drinking beer and talking about anything related to data or business
 - 💬 Ask me about how to solve business problems with data.
 
 ## 🎨 How I do:
