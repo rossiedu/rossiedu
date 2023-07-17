@@ -11,7 +11,7 @@
 ## 🎨 How I do:
 
 <a href="https://github.com/rossiedu/github-readme-stats">
-  <img align="center" height ="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rossiedu&count_private=true&layout=compact&theme=codeSTACKr&repo=rossiedu" />
+  <img align="center" height ="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rossiedu&count_private=true&layout=compact&theme=codeSTACKr" />
 </a>
 <a href="https://github.com/rossiedu/convoychat">
   <img align="center" height ="150em" src="https://github-readme-stats.vercel.app/api?username=rossiedu&count_private=true&theme=codeSTACKr&repo=rossiedu" />
