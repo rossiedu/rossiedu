@@ -10,9 +10,10 @@
 ## Languages and Tools
 <a href="https://github.com/rossiedu/github-readme-stats">
   <img align="left" height ="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rossiedu&count_private=true&layout=compact&theme=codeSTACKr" />
-  <img align="center" alt="Python" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+  <img align="center" alt="Python" height="50" width="50" src="popular/Power_bi_logo_black.svg">
   <img align="center" alt="SQL" height="50" width="50" src="https://raw.githubusercontent.com/github/explore/master/topics/sql/sql.png">
   
 </a>
+
  
 
