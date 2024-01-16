@@ -9,7 +9,7 @@
 
 ## Languages and Tools
 <a href="https://github.com/rossiedu/github-readme-stats">
-  <img align="center" height ="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rossiedu&count_private=true&layout=compact&theme=codeSTACKr" />
+  <img align="left" height ="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rossiedu&count_private=true&layout=compact&theme=codeSTACKr" />
 </a>
  
 
