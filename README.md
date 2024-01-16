@@ -1,45 +1,15 @@
-## Hey 🌎, I'm Eduardo Rossi!
+#### Hey 👋🏽, I'm Eduardo Rossi!
 
-#### Analytics Engineer enhancing the value of data in business.
+## Analytics Engineer enhancing the value of data in business.
 
-##  🖌 About me
-- 💼 Right now I am Data Coordinator inside the first savetech in Brazil!
-- ✍🏽 I'm developing my AWS skills
-- 🍻 I’m open to drinking beer and talking about anything related to data or business
-- 💬 Ask me about how to solve business problems with data.
+## About me:
+- Basketball player 🏀
+- SQL and Python addict 🤪
+- Currently studying to get some of the AWS Certifications 📝
 
-## 🎨 How I do:
-
+## Languages and Tools
 <a href="https://github.com/rossiedu/github-readme-stats">
   <img align="center" height ="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rossiedu&count_private=true&layout=compact&theme=codeSTACKr" />
 </a>
-<a href="https://github.com/rossiedu/convoychat">
-  <img align="center" height ="150em" src="https://github-readme-stats.vercel.app/api?username=rossiedu&count_private=true&theme=codeSTACKr&repo=rossiedu" />
-</a>
-<div style="display: inline_block"><br>
-<a href="https://github.com/rossiedu/github-readme-stats">
-  <img align="center" alt="Python" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  <img align="center" alt="Mysql" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg">
-  <img align="center" alt="Anaconda" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg">
-  <img align="center" alt="Anaconda" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
  
-</a>
- 
-  
-<div style="display: inline_block"><br>
 
-  <a href="https://github.com/rossiedu/convoychat">
-  <img align="center" height ="180em" src="https://media.giphy.com/media/WRQBXSCnEFJIuxktnw/giphy.gif" />
-</a>
-  <a href="https://github.com/rossiedu/convoychat">
-  <img align="center" height ="180em" src="https://media.giphy.com/media/ohdY5OaQmUmVW/giphy.gif" />
-</a>
-  
-  
- ## 📞 How to reach me:
-<p align="left">
-<a href="mailto:apds.eduardorossi30@gmail.com"><img alt="E-mail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/eduardodrossi/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="https://medium.com/@rossi_edu"><img alt="Medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>
-
-![Snake animation](https://github.com/rossiedu/rossiedu/blob/output/github-contribution-grid-snake.svg)
