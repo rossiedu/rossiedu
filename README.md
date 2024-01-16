@@ -1,6 +1,6 @@
 #### Hey 👋🏽, I'm Eduardo Rossi!
 
-## Analytics Engineer enhancing the value of data in business.
+### Analytics Engineer enhancing the value of data in business.
 
 ## About me:
 - Basketball player 🏀
