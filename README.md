@@ -1,27 +1,45 @@
-<h1 align="center">Hi 👋, I'm Eduardo Rossi</h1>
-<h3 align="center">Analytics Engineer enhancing the value of data in business</h3>
+## Hey 🌎, I'm Eduardo Rossi!
 
-- 🔭 I’m currently working on **data architecture in early stage startups**
+#### Analytics Engineer enhancing the value of data in business.
 
-- 🌱 I’m currently learning **Amazon Web Services with focus on data engineer and analytics**
+##  🖌 About me
+- 💼 Right now I am Data Coordinator inside the first savetech in Brazil!
+- ✍🏽 I'm developing my AWS skills
+- 🍻 I’m open to drinking beer and talking about anything related to data or business
+- 💬 Ask me about how to solve business problems with data.
 
-- 💬 Ask me about **Python, SQL, Excel**
+## 🎨 How I do:
 
-- 📫 How to reach me **eduardorossi30@gmail.com**
+<a href="https://github.com/rossiedu/github-readme-stats">
+  <img align="center" height ="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rossiedu&count_private=true&layout=compact&theme=codeSTACKr" />
+</a>
+<a href="https://github.com/rossiedu/convoychat">
+  <img align="center" height ="150em" src="https://github-readme-stats.vercel.app/api?username=rossiedu&count_private=true&theme=codeSTACKr&repo=rossiedu" />
+</a>
+<div style="display: inline_block"><br>
+<a href="https://github.com/rossiedu/github-readme-stats">
+  <img align="center" alt="Python" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+  <img align="center" alt="Mysql" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg">
+  <img align="center" alt="Anaconda" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg">
+  <img align="center" alt="Anaconda" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
+ 
+</a>
+ 
+  
+<div style="display: inline_block"><br>
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-<h3 align="left">Connect with me:</h3>
+  <a href="https://github.com/rossiedu/convoychat">
+  <img align="center" height ="180em" src="https://media.giphy.com/media/WRQBXSCnEFJIuxktnw/giphy.gif" />
+</a>
+  <a href="https://github.com/rossiedu/convoychat">
+  <img align="center" height ="180em" src="https://media.giphy.com/media/ohdY5OaQmUmVW/giphy.gif" />
+</a>
+  
+  
+ ## 📞 How to reach me:
 <p align="left">
-<a href="https://linkedin.com/in/eduardodrossi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eduardodrossi" height="30" width="40" /></a>
-<a href="https://medium.com/@rossi_edu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@rossi_edu" height="30" width="40" /></a>
-</p>
+<a href="mailto:apds.eduardorossi30@gmail.com"><img alt="E-mail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/eduardodrossi/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://medium.com/@rossi_edu"><img alt="Medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rossiedu&show_icons=true&locale=en&layout=compact" alt="rossiedu" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rossiedu&" alt="rossiedu" /></p>
+![Snake animation](https://github.com/rossiedu/rossiedu/blob/output/github-contribution-grid-snake.svg)
