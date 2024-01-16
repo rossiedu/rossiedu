@@ -2,13 +2,12 @@
 
 #### Analytics Engineer enhancing the value of data in business.
 
-##  🖌 About me
-- 💼 Right now I am Data Coordinator inside the first savetech in Brazil!
-- ✍🏽 I'm developing my AWS skills
-- 🍻 I’m open to drinking beer and talking about anything related to data or business
-- 💬 Ask me about how to solve business problems with data.
+## 📎 About me
+- 🏀 Basketball player
+- 💊 Python and SQL addicted
+- 📒 Currently studying to AWS Certification Tests
 
-## 🎨 How I do:
+## 🎨 How I make things done:
 
 <a href="https://github.com/rossiedu/github-readme-stats">
   <img align="center" height ="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rossiedu&count_private=true&layout=compact&theme=codeSTACKr" />
