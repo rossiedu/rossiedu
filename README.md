@@ -5,7 +5,7 @@
 ## 📎 About me
 - 🏀 Basketball player
 - 💊 Python and SQL addicted
-- 📒 Currently studying to AWS Certification Tests
+- 📒 Currently studying for AWS Certification Tests
 
 ## 🎨 How I make things done:
 
